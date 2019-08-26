@@ -1,2 +1,0 @@
-class AppontmentsController < ApplicationController
-end
