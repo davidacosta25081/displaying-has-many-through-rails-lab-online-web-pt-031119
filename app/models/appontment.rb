@@ -1,2 +1,2 @@
-class Appontment < ApplicationRecord
+class Appontment < ActiveRecord::Base
 end
