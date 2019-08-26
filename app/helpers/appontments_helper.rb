@@ -1,0 +1,2 @@
+module AppontmentsHelper
+end
